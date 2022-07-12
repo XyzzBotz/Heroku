@@ -731,7 +731,7 @@ SEMOGA HARIMU MENYENANGKAN
 -----------------------------------•
 
 INFO CREATOR BOT
-*Nama : Aprilia*
+*Nama : MisakiOfc*
 *Instagram : @aprigans_*
 *YouTube : BOT INDO*
 *Link Yt : https://www.youtube.com/c/BOTINDO*
@@ -740,12 +740,12 @@ INFO CREATOR BOT
 -----------------------------------•
 
 INFO BOT
-*Nama Bot : ${namabot}*
-*Author : Aprilia*
+*Nama Bot : ${ReyTod}*
+*Author : MisakiOfc*
 *Base : Mhankbarbar*
 *Library : Bailey*
-*Nama Owner : ${namaowner}*
-*Owner Number : wa.me/${owner}*
+*Nama Owner : ${MisakiOfc}*
+*Owner Number : wa.me/${628971447373}*
 
 ------------------------------------•
 
